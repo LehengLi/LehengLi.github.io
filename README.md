@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hux Blog
 ========
 
@@ -376,3 +377,10 @@ Copyright (c) 2015-2020 Huxpro
 
 Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
 Copyright (c) 2013-2016 Blackrock Digital LLC.
+=======
+lilelife Blog
+========
+
+
+This is my personal webside. I might write something if I have enough time.
+>>>>>>> 7f77b5de7cb91f2f5276b4be61d8d6f4501d8230

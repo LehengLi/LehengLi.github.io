@@ -92,5 +92,8 @@ service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 7f77b5de7cb91f2f5276b4be61d8d6f4501d8230
