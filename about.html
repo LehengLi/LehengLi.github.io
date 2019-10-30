@@ -1,7 +1,12 @@
 ---
+layout: page
+title: "About"
 description: "Who is Leheng Li"
 header-img: "img/sea.jpg"
+multilingual: true
 ---
+
+{% include multilingual-sel.html %}
 
 <!-- Language Selector -->
 <select onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
@@ -37,3 +42,4 @@ header-img: "img/sea.jpg"
     }
     onLanChange(0);
 </script>
+{% endif %}
