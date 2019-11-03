@@ -1,3 +1,13 @@
+---
+title: "一些介绍"
+subtitle: "一些介绍"
+layout: post
+author: "lilelife"
+header-style: text
+hidden: true
+tags:
+  - 笔记
+---
 Leheng Li Blog
 ========
 
